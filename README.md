@@ -1,6 +1,8 @@
 ## Music Wiki
 
-### MusicWiki is an unofficial Last.fm app that contains information about different music genres, the albums, artists and tracks listed under the genre.
+#### MusicWiki is an unofficial Last.fm app that contains information about different music genres, the albums, artists and tracks listed under the genre.
+
+#### NOTE -> Put api key in "RetrofitInstance" Class
 
 ## Features
 
@@ -15,3 +17,12 @@
 <img src="/screenshots/Screenshot_4.png" width="200"/> <img src="/screenshots/Screenshot_5.png" width="200"/> <img src="/screenshots/Screenshot_6.png" width="200"/>
 
 <img src="/screenshots/Screenshot_7.png" width="200"/> <img src="/screenshots/Screenshot_8.png" width="200"/>
+
+#### Important link
+
+- API
+https://www.last.fm/api/intro
+https://www.last.fm/api/authentication
+
+- GreedyGame Assignment 
+https://drive.google.com/file/d/1LnjjQ6haCJJAKNQ5D_UeBB-LSxFTvM1F/view
